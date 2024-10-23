@@ -13,13 +13,13 @@ const Hero6 = () => {
                     <div className="container">
                         <div className="hero-content">
                             <div className="slide-title-sub">
-                                <h5>Trusted Business Partner.</h5>
+                                <h5>Your Vision, Our Code.</h5>
                             </div>
                             <div className="slide-title">
-                                <h2>Ready For Your Financial <b><span>Problem</span> Solution.</b></h2>
+                                <h2>Ready to Turn Your <b><span>Ideas</span> into Reality.</b></h2>
                             </div>
                             <div className="slide-text">
-                                <p>It was popularised in the 1960s with the release sheets.</p>
+                                <p>Let’s build your digital future today!</p>
                             </div>
                             <div className="clearfix"></div>
                             <div className="btns">
