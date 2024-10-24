@@ -24,16 +24,13 @@ const About3 = (props) => {
                         </div>
                         <div className="col-xl-5 col-lg-6 col-md-12 col-12">
                             <div className="wpo-about-text">
-                                <h4>Welcome To Consoel</h4>
-                                <h2>We are trusted consulting company.</h2>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting’s
-                                    the industrey's standard dummy text ever since the 1500 when printed
-                                    galley of type and scrambled type specimen book.</p>
+                                <h4>Welcome To FalconDev</h4>
+                                <h2>Trusted in web and mobile app solutions.</h2>
+                                <p>We are a trusted partner in delivering high-quality web and mobile app development solutions. With a focus on innovation and reliability, we turn your ideas into seamless digital experiences that drive business success.</p>
                                 <div className="text-sub-wrap">
                                     <div className="text-sub-item">
                                         <i className="fi flaticon-tax"></i>
-                                        <h5>Perfect solution of business
-                                            and financial planning.</h5>
+                                        <h5>Perfect solutions for your business needs to drive success.</h5>
                                     </div>
                                 </div>
                                 <Link onClick={ClickHandler} className="theme-btn" to="/service">Our Services</Link>

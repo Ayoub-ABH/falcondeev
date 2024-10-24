@@ -2,19 +2,19 @@ import React from 'react'
 
 const funFact = [
   {
-      title: '8,567',
+      title: '20',
       subTitle: 'Completed Cases',
   },
   {
-      title: '357+',
+      title: '10+',
       subTitle: 'Happy Clients',
   },
   {
-      title: '28+',
+      title: '1+',
       subTitle: 'Our Office',
   },
   {
-      title: '785',
+      title: '5',
       subTitle: 'Skilled People',
   },
 
