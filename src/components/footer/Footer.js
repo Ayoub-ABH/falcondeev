@@ -22,8 +22,7 @@ const Footer = (props) => {
                                 <div className="logo widget-title">
                                     <img src={Logo} alt="logo"/>
                                 </div>
-                                <p>Many desktop publishing packages web page editors now is use model search for many
-                                    web sites.</p>
+                                <p>FalconDev specializes in innovative web, mobile, and desktop applications, along with business intelligence solutions. We empower businesses to thrive through technology and data-driven insights.</p>
                                 <ul>
                                     <li>
                                         <Link onClick={ClickHandler} to="/">
@@ -84,8 +83,7 @@ const Footer = (props) => {
                                 <div className="widget-title">
                                     <h3>Newsletter</h3>
                                 </div>
-                                <p>Many desktop publi’s shing packages web
-                                    page editors now is use sites.</p>
+                                <p>Stay updated with the latest news, insights, and innovations from FalconDev!</p>
                                 <form onSubmit={SubmitHandler}>
                                     <div className="input-1">
                                         <input type="email" className="form-control" placeholder="Email Address *"
@@ -124,7 +122,7 @@ const Footer = (props) => {
                     <div className="row align-items-center">
                         <div className="col col-lg-6 col-md-12 col-12">
                             <ul>
-                                <li>Copyright &copy; 2022 //  All Right Reserved by <Link onClick={ClickHandler} to="/">Consoel.</Link></li>
+                                <li>Copyright &copy; 2024 //  All Right Reserved by <Link onClick={ClickHandler} to="/">FalconDev</Link></li>
                             </ul>
                         </div>
                         <div className="col col-lg-6 col-md-12 col-12">

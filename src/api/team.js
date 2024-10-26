@@ -14,7 +14,7 @@ const Teams = [
         Id: '2',
         tImg:timg2,
         name:'Ayoub AIT BABA HAMOU',
-        title:'Project Manager',
+        title:'Co-Founder & CTO',
     }
 ]
 

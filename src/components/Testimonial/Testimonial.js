@@ -13,23 +13,23 @@ const testimonial = [
     {
         id: '01',
         tImg: ts1,
-        Des: "I just wanted to share a quick note and let you know that you guys do a  really good job. I’m glad I decided to work with you. It’s really great how easy. One way to categorize the activities is in terms.",
-        Title: 'Cathi Falcon',
-        Sub: "Founder",
+        Des: "Working with FalconDev has been a transformative experience for our company. Their attention to detail and commitment to quality truly set them apart.",
+        Title: 'Fatima El Amrani',
+        Sub: "CEO, Innovatech",
     },
     {
-        id: '01',
+        id: '02',
         tImg: ts2,
-        Des: "I just wanted to share a quick note and let you know that you guys do a  really good job. I’m glad I decided to work with you. It’s really great how easy. One way to categorize the activities is in terms.",
-        Title: 'Harry Abraham',
-        Sub: "SCG First Company",
+        Des: "The team at FalconDev exceeded our expectations! Their innovative solutions and timely support have greatly enhanced our project outcomes.",
+        Title: 'Youssef Benkhalifa',
+        Sub: "Project Manager, Atlas Solutions",
     },
     {
-        id: '01',
+        id: '03',
         tImg: ts3,
-        Des: "I just wanted to share a quick note and let you know that you guys do a  really good job. I’m glad I decided to work with you. It’s really great how easy. One way to categorize the activities is in terms.",
-        Title: 'Benjir Walton',
-        Sub: "Merketer",
+        Des: "FalconDev has been instrumental in our growth. Their expertise and dedication to client success have made all the difference in our journey.",
+        Title: 'Amina Zahir',
+        Sub: "Co-Founder, Tech Solutions",
     }
 ]
 

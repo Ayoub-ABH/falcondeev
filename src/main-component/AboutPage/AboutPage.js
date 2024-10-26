@@ -8,7 +8,7 @@ import Skill2 from '../../components/Skill2/Skill2';
 import TeamSection from '../../components/TeamSection/TeamSection';
 import Testimonial from '../../components/Testimonial/Testimonial';
 import FunFact from '../../components/FunFact/FunFact';
-import Footer2 from '../../components/footer2/Footer2';
+import Footer from '../../components/footer/Footer';
 
 
 const AboutPage = () => {
@@ -22,7 +22,7 @@ const AboutPage = () => {
             <TeamSection tClass={'wpo-team-section-s3'}/>
             <Testimonial/>
             <FunFact fClass={'wpo-fun-fact-section-s2 pt-0'}/>
-            <Footer2/>
+            <Footer/>
             <Scrollbar />
         </Fragment>
     )
