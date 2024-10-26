@@ -31,6 +31,7 @@ const Hero6 = () => {
             </div>
             <Fade right>
                 <div className="consult-pic">
+                    {/* <img src={hero1} alt="" /> */}
                     <img src="https://consoel-react.wpocean.com/static/media/4.b1793fb54be07b90034a.png" alt="" />
                 </div>
             </Fade>
