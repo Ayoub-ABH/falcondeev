@@ -17,7 +17,8 @@ const About3 = (props) => {
                             <div className="wpo-about-wrap">
                                 <div className="wpo-about-img">
                                     <div className="inner-img">
-                                        <img src={abimg} alt="" />
+                                        {/* <img src={abimg} alt="" /> */}
+                                        <img src="https://consoel-react.wpocean.com/static/media/about.0b5847129e3418415194.jpg" alt="" />
                                     </div>
                                 </div>
                             </div>
