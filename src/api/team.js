@@ -7,20 +7,14 @@ const Teams = [
     {
         Id: '1',
         tImg:timg1,
-        name:'Harry Abraham',
-        title:'Founder',
+        name:'Aicha NJIMATE',
+        title:'Founder & CEO',
     },
     {
         Id: '2',
         tImg:timg2,
-        name:'Robert Johnson',
-        title:'Admin',
-    },
-    {
-        Id: '3',
-        tImg:timg3,
-        name:'Jenelia Orkid',
-        title:'Merketer',
+        name:'Ayoub AIT BABA HAMOU',
+        title:'Project Manager',
     }
 ]
 
