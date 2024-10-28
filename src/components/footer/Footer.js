@@ -25,24 +25,29 @@ const Footer = (props) => {
                                 <p>FalconDev specializes in innovative web, mobile, and desktop applications, along with business intelligence solutions. We empower businesses to thrive through technology and data-driven insights.</p>
                                 <ul>
                                     <li>
-                                        <Link onClick={ClickHandler} to="/">
-                                            <i className="ti-facebook"></i>
-                                        </Link>
+                                       
+                                        <a href="https://web.facebook.com/profile.php?id=61567033855025" target="_blank" rel="noopener noreferrer" onClick={ClickHandler}>
+                                                <i className="ti-facebook"></i>
+                                            </a>
+
                                     </li>
                                     <li>
-                                        <Link onClick={ClickHandler} to="/">
-                                            <i className="ti-twitter-alt"></i>
-                                        </Link>
+                    
+                                        <a href="https://www.instagram.com/falcondeev?igsh=MTcyM2dpb2I5bDZ3Mw==" target="_blank" rel="noopener noreferrer" onClick={ClickHandler}>
+                                        <i className="ti-instagram"></i>
+                                            </a>
                                     </li>
                                     <li>
-                                        <Link onClick={ClickHandler} to="/">
-                                            <i className="ti-instagram"></i>
-                                        </Link>
+                                    <a href="https://www.youtube.com/@FalconDeev" target="_blank" rel="noopener noreferrer" onClick={ClickHandler}>
+                                        <i className="ti-youtube"></i>
+                                            </a>
+                                       
                                     </li>
                                     <li>
-                                        <Link onClick={ClickHandler} to="/">
-                                            <i className="ti-google"></i>
-                                        </Link>
+                                    <a href="https://www.linkedin.com/company/falcon-dev/?viewAsMember=true" target="_blank" rel="noopener noreferrer" onClick={ClickHandler}>
+                                        <i className="ti-linkedin"></i>
+                                            </a>
+                                       
                                     </li>
                                 </ul>
                             </div>

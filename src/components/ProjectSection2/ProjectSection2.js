@@ -81,12 +81,12 @@ const ProjectSection2 = (props) => {
                                     <div className="grid" key={prj}>
                                         <div className="wpo-project-item">
                                             <img src={project.pImg} alt="project" className="img img-responsive" />
-                                            <div className="wpo-project-text">
+                                            {/* <div className="wpo-project-text">
                                                 <span>{project.subTitle}</span>
                                                 <h3><Link onClick={ClickHandler} to={`/project-single/${project.Id}`}>{project.title}</Link></h3>
                                                 <Link onClick={ClickHandler} className="arrow-btn" to={`/project-single/${project.Id}`}><i
                                                 className="fi flaticon-right-arrow-1"></i></Link>
-                                            </div>
+                                            </div> */}
                                         </div>
                                     </div>
                                 ))}

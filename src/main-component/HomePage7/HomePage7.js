@@ -27,7 +27,7 @@ const HomePage7 =() => {
             <FunFact fClass={'wpo-fun-fact-section-s2 pt-120'}/>
             <ProjectSection2/>
             <Testimonial/>
-            <Subscribe sbClass={'wpo-subscribe-section-s2 pt-0'}/>
+            {/* <Subscribe sbClass={'wpo-subscribe-section-s2 pt-0'}/> */}
             {/* <BlogSection/> */}
             {/* <PartnerSectionS2/> */}
             <Footer/>

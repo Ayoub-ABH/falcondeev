@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import abimg from '../../images/about/ab.png'
+import abimg1 from '../../images/slider/LL.png'
 
 const ClickHandler = () => {
     window.scrollTo(10, 0);
@@ -17,8 +18,8 @@ const About3 = (props) => {
                             <div className="wpo-about-wrap">
                                 <div className="wpo-about-img">
                                     <div className="inner-img">
-                                        {/* <img src={abimg} alt="" /> */}
-                                        <img src="https://consoel-react.wpocean.com/static/media/about.0b5847129e3418415194.jpg" alt="" />
+                                        <img src={abimg1} alt="" />
+                                        {/* <img src="https://consoel-react.wpocean.com/static/media/about.0b5847129e3418415194.jpg" alt="" /> */}
                                     </div>
                                 </div>
                             </div>

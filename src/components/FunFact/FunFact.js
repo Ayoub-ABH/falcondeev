@@ -10,11 +10,11 @@ const funFact = [
       subTitle: 'Happy Clients',
   },
   {
-      title: '1+',
+      title: '2+',
       subTitle: 'Our Office',
   },
   {
-      title: '5',
+      title: '10',
       subTitle: 'Skilled People',
   },
 

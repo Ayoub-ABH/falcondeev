@@ -1,4 +1,4 @@
-import timg1 from '../images/team/1.jpg'
+import timg1 from '../images/team/aicha (1).jpg'
 import timg2 from '../images/team/2.jpg'
 import timg3 from '../images/team/3.jpg'
 

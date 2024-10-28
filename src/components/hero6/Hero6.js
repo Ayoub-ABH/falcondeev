@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom'
 import hero1 from '../../images/slider/3.png'
 import shape1 from '../../images/slider/shape-6.png'
 import shape2 from '../../images/slider/shape-7.png'
+import shape3 from '../../images/slider/LL.png'
 import Fade from 'react-reveal/Fade';
 
 const Hero6 = () => {
@@ -16,7 +17,7 @@ const Hero6 = () => {
                                 <h5>Your Vision, Our Code.</h5>
                             </div>
                             <div className="slide-title">
-                                <h2>Ready to Turn Your <b><span>Ideas</span> into Reality.</b></h2>
+                                <h2> Transforming Ideas <b><span>Into</span> Digital Reality.</b></h2>
                             </div>
                             <div className="slide-text">
                                 <p>Let’s build your digital future today!</p>
@@ -32,7 +33,7 @@ const Hero6 = () => {
             <Fade right>
                 <div className="consult-pic">
                     {/* <img src={hero1} alt="" /> */}
-                    <img src="https://consoel-react.wpocean.com/static/media/4.b1793fb54be07b90034a.png" alt="" />
+                    <img src={shape3} alt="" />
                 </div>
             </Fade>
             <div className="hero-line-shape-1"><img src={shape1} alt="" /></div>

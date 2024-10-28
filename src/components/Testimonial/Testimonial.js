@@ -44,7 +44,7 @@ const Testimonial = () => {
             <div className="container">
                 <div className="wpo-testimonial-wrap">
                     <div className="row">
-                        <div className="col-lg-6">
+                        <div className="col-lg-12">
                             <SectionTitle subTitle={'CLIENT TESTIMONIAL'} Title={'Best Word Our Clients'} />
                             <div className="wpo-testimonial-items">
                                 <Slider asNavFor={nav2} ref={(slider1) => setNav1(slider1)} dots={true} arrows={false}>
@@ -64,7 +64,7 @@ const Testimonial = () => {
                                 </Slider>
                             </div>
                         </div>
-                        <div className="col-lg-5 offset-lg-1">
+                        {/* <div className="col-lg-5 offset-lg-1">
                             <div className="testimonial-right-side">
                                 <Slider
                                     asNavFor={nav1}
@@ -87,7 +87,7 @@ const Testimonial = () => {
                                     <VideoModal />
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             </div>
