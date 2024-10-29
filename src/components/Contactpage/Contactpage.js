@@ -60,39 +60,37 @@ const Contactpage = () => {
                         </div>
                     
                         <div className="office-info">
-    <div className="row">
-        <div className="col col-xl-12 col-lg-12 col-md-12 col-12">
-            <div className="office-info-item">
-                <div className="office-info-icon">
-                    <div className="icon">
-                         <i className="fi flaticon-network"></i>
-                    </div>
-                </div>
+                            <div className="row">
+                                <div className="col col-xl-12 col-lg-12 col-md-12 col-12">
+                                    <div className="office-info-item">
+                                        <div className="office-info-icon">
+                                            <div className="icon">
+                                                <i className="fi flaticon-social-media"></i>
+                                            </div>
+                                        </div>
 
-                <div className="office-info-text">
-                    <h2>Réseaux sociaux</h2>
-                    <p>
-                        <a href="https://web.facebook.com/profile.php?id=61567033855025" target="_blank" rel="noopener noreferrer">
-                            <i className="ti-facebook"></i> Facebook 
-                        </a>
-                    </p>
-                    <p>
-                        <a href="https://www.instagram.com/falcondeev?igsh=MTcyM2dpb2I5bDZ3Mw==" target="_blank" rel="noopener noreferrer">
-                            <i className="ti-instagram"></i> Instagram
-                        </a>
-                    </p>
-                    <p>
-                        <a href="https://www.linkedin.com/company/falcon-dev/?viewAsMember=true" target="_blank" rel="noopener noreferrer">
-                            <i className="ti-linkedin"></i> LinkedIn
-                        </a>
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-                       
+                                        <div className="office-info-text">
+                                            <h2>Social media</h2>
+                                            <p>
+                                                <a href="https://web.facebook.com/profile.php?id=61567033855025" target="_blank" rel="noopener noreferrer">
+                                                    <i className="ti-facebook"></i> Facebook 
+                                                </a>
+                                            </p>
+                                            <p>
+                                                <a href="https://www.instagram.com/falcondeev?igsh=MTcyM2dpb2I5bDZ3Mw==" target="_blank" rel="noopener noreferrer">
+                                                    <i className="ti-instagram"></i> Instagram
+                                                </a>
+                                            </p>
+                                            <p>
+                                                <a href="https://www.linkedin.com/company/falcon-dev/?viewAsMember=true" target="_blank" rel="noopener noreferrer">
+                                                    <i className="ti-linkedin"></i> LinkedIn
+                                                </a>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>                
                 </div>
             </div> 

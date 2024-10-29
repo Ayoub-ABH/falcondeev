@@ -24,9 +24,9 @@ const HomePage7 =() => {
             <ServiceSectionS3/>
             <Skill2/>
             <TeamSection tClass={'wpo-team-section-s3'}/>
-            <FunFact fClass={'wpo-fun-fact-section-s2 pt-120'}/>
             <ProjectSection2/>
             <Testimonial/>
+            <FunFact fClass={'wpo-fun-fact-section-s2 pt-120'}/>
             {/* <Subscribe sbClass={'wpo-subscribe-section-s2 pt-0'}/> */}
             {/* <BlogSection/> */}
             {/* <PartnerSectionS2/> */}
