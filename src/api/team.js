@@ -1,5 +1,5 @@
-import timg1 from '../images/team/1.jpg'
-import timg2 from '../images/team/2.jpg'
+import timg1 from '../images/team/WhatsApp Image 2024-10-30 at 17.39.59_c5f3008b (1).jpg'
+import timg2 from '../images/team/WhatsApp Image 2024-10-30 at 17.34.52_8fef0ad6.jpg'
 import timg3 from '../images/team/3.jpg'
 
 

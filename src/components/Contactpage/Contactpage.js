@@ -65,12 +65,12 @@ const Contactpage = () => {
                                     <div className="office-info-item">
                                         <div className="office-info-icon">
                                             <div className="icon">
-                                                <i className="fi flaticon-social-media"></i>
+                                                <i className="fi flaticon-phone-call"></i>
                                             </div>
                                         </div>
 
                                         <div className="office-info-text">
-                                            <h2>Social media</h2>
+                                            <h2>Social Media</h2>
                                             <p>
                                                 <a href="https://web.facebook.com/profile.php?id=61567033855025" target="_blank" rel="noopener noreferrer">
                                                     <i className="ti-facebook"></i> Facebook 

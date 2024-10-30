@@ -44,7 +44,7 @@ const Services = [
         sImg:simg3,
         sImgS:sImgS3,
         sTitle: 'Dekstop app development',
-        description:'We provide expert desktop app development services, building custom solutions that enhance productivity and integrate seamlessly with your systems. Our desktop apps deliver high performance, security, and usability to support your business goals.',
+        description:'We provide expert desktop app development services, building custom solutions that enhance productivity and integrate seamlessly with your systems. Our desktop apps deliver high performance  to support your business goals.',
         des2:'Lacus, etiam sed est eu tempus need Temer diam congue laoret .',
         des3:'One way to categorize the activities is in terms of the professional’s area of expertise such as competitive analysis, corporate strategy the activities',
         icon:'flaticon-taxes',
